@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#####
+
+src/artifacts/build-info
+src/artifacts/contracts/Greeter.sol/Greeter.dbg.json
+src/artifacts/hardhat
